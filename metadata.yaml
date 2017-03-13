@@ -1,5 +1,5 @@
 _repo: The-Exiles_1884
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Waring, James
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '1801'
     url: http://www.gutenberg.org/2009/agents/1801
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -26,6 +29,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1884#The-Exiles
 gutenberg_issued: '2004-09-22'
 gutenberg_type: Text
 identifiers:
